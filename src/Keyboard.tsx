@@ -1,4 +1,4 @@
-import style from './Keyboard.modules.css?inline'
+// import style from './Keyboard.modules.css?inline'
 import './Keyboard.modules.css'
 
 const KEYS = [
